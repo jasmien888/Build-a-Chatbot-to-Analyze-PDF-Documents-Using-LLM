@@ -1,13 +1,13 @@
 /* Light mode */
 body {
-  background-color: #d6ddec;
+  background-color: #FFB6C1;
   color: #121717;
 }
 
 /* Dark mode */
 .dark-mode {
   background-color: #121717;
-  color: #c9c9c9;
+  color: #FFC0CB;
 }
 
 #chat-window {
@@ -28,7 +28,7 @@ body {
   border-radius: 15px;
   display: inline-block;
   position: relative;
-  background-color: #efefef;
+  background-color: #FFB6C1;
   min-width: 26px;
   border-top-left-radius: 0;
   word-wrap: break-word;
@@ -51,7 +51,7 @@ body {
 }
 
 .message-box.my-text.dark {
-  background-color: #0f4c9e;
+  background-color: #FF1493;
 }
 
 .message-box.dark {
